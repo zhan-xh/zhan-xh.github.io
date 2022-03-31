@@ -11,22 +11,6 @@ comments: true
 math: false
 mermaid: true
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [transform全解 transition](#transform全解-transition)
-  - [经验技巧](#经验技巧)
-  - [1.位移translate](#1位移translate)
-    - [位移](#位移)
-    - [指定视点 z轴](#指定视点-z轴)
-    - [translate 3d](#translate-3d)
-  - [2.缩放scale](#2缩放scale)
-  - [3. 旋转rotate](#3-旋转rotate)
-  - [4. 倾斜 skew](#4-倾斜-skew)
-  - [5. 多重使用 用空格隔开就好](#5-多重使用-用空格隔开就好)
-- [transition 过渡](#transition-过渡)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # transform全解 transition
 ## 经验技巧
