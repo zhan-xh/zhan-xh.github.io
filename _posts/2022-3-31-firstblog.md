@@ -8,14 +8,8 @@ author: 冬树
 
 toc: true
 comments: true
-# typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
-
-# image:
-#   src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-#   alt: 签约成功
-
 ---
 
 # 冬树的第一篇博客
