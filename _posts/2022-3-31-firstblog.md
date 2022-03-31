@@ -1,7 +1,7 @@
 ---
 title: zhan的第一个博客
 date: 2022-03-31 20:28:00 +0800
-categories: [测试1]
+categories: [测试]
 tags: [测试]
 pin: true
 author: 冬树
